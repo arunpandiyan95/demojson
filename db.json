@@ -3,42 +3,50 @@
     {
         "id": 1,
         "name": "Samsung",
-        "price": 12000
+        "price": 12000,
+		"count": 0
     },
     {
         "id": 2,
         "name": "Samsung",
-        "price": 12000
+        "price": 12000,
+		"count": 0
     },
     {
         "id": 3,
         "name": "Samsung",
-        "price": 12000
+        "price": 12000,
+		"count": 0
     },
     {
         "id": 4,
         "name": "Samsung",
-        "price": 12000
+        "price": 12000,
+		"count": 0
     },
     {
         "id": 5,
         "name": "Samsung",
-        "price": 12000
+        "price": 12000,
+		"count": 0
     },
     {
         "id": 6,
         "name": "Samsung",
-        "price": 12000
+        "price": 12000,
+		"count": 0
     },
     {
         "id": 7,
         "name": "Samsung",
-        "price": 12000
+        "price": 12000,
+		"count": 0
     },
     {
         "id": 8,
         "name": "Sony",
-        "price": 12000
+        "price": 12000,
+		"count": 0
     }
     ]
 }
