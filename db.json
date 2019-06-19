@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung",
+        "price": 12000
+    },
+    {
+        "id": 2,
+        "name": "Samsung",
+        "price": 12000
+    },
+    {
+        "id": 3,
+        "name": "Samsung",
+        "price": 12000
+    },
+    {
+        "id": 4,
+        "name": "Samsung",
+        "price": 12000
+    },
+    {
+        "id": 5,
+        "name": "Samsung",
+        "price": 12000
+    },
+    {
+        "id": 6,
+        "name": "Samsung",
+        "price": 12000
+    },
+    {
+        "id": 7,
+        "name": "Samsung",
+        "price": 12000
+    },
+    {
+        "id": 8,
+        "name": "Sony",
+        "price": 12000
+    }
+]
