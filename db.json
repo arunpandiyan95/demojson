@@ -1,52 +1,36 @@
 {
-    "products": [
+    "todolists": [
     {
         "id": 1,
-        "name": "Samsung",
-        "price": 12000,
-		"count": 0
+        "todo": "task1"
     },
     {
         "id": 2,
-        "name": "Samsung",
-        "price": 12000,
-		"count": 0
+        "todo": "task2"
     },
     {
         "id": 3,
-        "name": "Samsung",
-        "price": 12000,
-		"count": 0
+        "todo": "task3"
     },
     {
         "id": 4,
-        "name": "Samsung",
-        "price": 12000,
-		"count": 0
+        "todo": "task4"
     },
     {
         "id": 5,
-        "name": "Samsung",
-        "price": 12000,
-		"count": 0
+        "todo": "task5"
     },
     {
         "id": 6,
-        "name": "Samsung",
-        "price": 12000,
-		"count": 0
+        "todo": "task6"
     },
     {
         "id": 7,
-        "name": "Samsung",
-        "price": 12000,
-		"count": 0
+        "todo": "task7"
     },
     {
         "id": 8,
-        "name": "Sony",
-        "price": 12000,
-		"count": 0
+        "todo": "task8"
     }
     ]
 }
